@@ -1,4 +1,4 @@
-# VAG-LongCoder
+# VAG LongCoder-Neo
 Advanced VAG Long Coding helper with modern UI and Themes, fully compatible with VCDS.  
 Tested on Windows 11 x64, will not work on windows 7.  
 .NET 10 Desktop Runtime required — download from https://dotnet.microsoft.com/download/dotnet/10.0 — pick "Run desktop apps" → Windows x64  
