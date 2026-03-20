@@ -14,7 +14,14 @@ Tested on Windows 11 x64, will not work on windows 7.
 * Fully drop-in replacement of the included LCode in VCDS.  
 * Supports Keyboard shortcuts of LCode.  
 ## License
-  This project is licensed under a proprietary license. See [LICENSE](LICENSE) for details.
+  This project is licensed under a proprietary license. See [LICENSE](LICENSE) for details.  
+### Screenshots:  
+* Dark Small Theme:  
+<img src="Screenshots/Screenshot-LongCoder-Neo-0.9.0b-drop2.png" width="680" />
+  
+* Light Small Theme:  
+<img src="Screenshots/Screenshot-LongCoder-Neo-0.9.0b-light.png" width="680" />  
+
 ## Usage:
   You can use the LongCoder.exe as a standalone program to edit long coding of the VAG control modules or use it with VCDS completely replacing the included LCode.exe  
   ### For Stanalone use:  
