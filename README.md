@@ -14,7 +14,7 @@ Tested on Windows 11 x64, will not work on Windows 7.
 * Fully drop-in replacement of the included LCode in VCDS.  
 * Supports Keyboard shortcuts of LCode.  
 ## License
-  This project is licensed under a proprietary license. See [LICENSE](LICENSE) for details.  
+  This project is licensed under a proprietary license. See [LICENSE] for details.  
 ### Screenshots:  
 * Dark Small Theme:  
 <img src="Screenshots/Screenshot-LongCoder-Neo-0.9.0b-drop2.png" width="680" />
